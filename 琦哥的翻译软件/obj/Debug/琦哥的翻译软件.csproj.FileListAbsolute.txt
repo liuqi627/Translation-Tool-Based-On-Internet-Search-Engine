@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\毕设\琦哥的翻译软件\琦哥的翻译软件\bin\Debug\琦哥的翻译软件.exe.config
+C:\Users\Administrator\Desktop\毕设\琦哥的翻译软件\琦哥的翻译软件\bin\Debug\琦哥的翻译软件.exe
+C:\Users\Administrator\Desktop\毕设\琦哥的翻译软件\琦哥的翻译软件\bin\Debug\琦哥的翻译软件.pdb
+C:\Users\Administrator\Desktop\毕设\琦哥的翻译软件\琦哥的翻译软件\obj\Debug\琦哥的翻译软件.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\毕设\琦哥的翻译软件\琦哥的翻译软件\obj\Debug\琦哥的翻译软件.MainForm.resources
+C:\Users\Administrator\Desktop\毕设\琦哥的翻译软件\琦哥的翻译软件\obj\Debug\琦哥的翻译软件.Properties.Resources.resources
+C:\Users\Administrator\Desktop\毕设\琦哥的翻译软件\琦哥的翻译软件\obj\Debug\琦哥的翻译软件.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\毕设\琦哥的翻译软件\琦哥的翻译软件\obj\Debug\琦哥的翻译软件.exe
+C:\Users\Administrator\Desktop\毕设\琦哥的翻译软件\琦哥的翻译软件\obj\Debug\琦哥的翻译软件.pdb
